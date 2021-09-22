@@ -1,1 +1,5 @@
-python3 slowloris.py *example URL* -Create your first simplistic DDOS attack
+//slowloris is a pen testing tool that scans for DDOS vulnerabilities
+
+python3 slowloris.py *example URL* //Create your first simplistic DDOS attack
+
+python3 slowloris.py -x --useproxy *example URL* //create an attack using a proxy
